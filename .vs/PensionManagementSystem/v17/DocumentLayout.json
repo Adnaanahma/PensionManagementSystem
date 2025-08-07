@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|solutionrelative:pensionmanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{091786A1-6E6D-40CF-B388-B8A18636DB65}|PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.application\\pensionmanagementsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{091786A1-6E6D-40CF-B388-B8A18636DB65}|PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj|solutionrelative:pensionmanagementsystem.application\\pensionmanagementsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|solutionrelative:pensionmanagementsystem.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.infrastructure\\pensionmanagementsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|solutionrelative:pensionmanagementsystem.infrastructure\\pensionmanagementsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C7E3066-37BE-4887-80D9-D3402A02D49F}|PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.domain\\pensionmanagementsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -23,27 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "PensionManagementSystem.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "PensionManagementSystem.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T12:41:01.723Z",
+              "Title": "PensionManagementSystem.Application",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj",
+              "RelativeToolTip": "PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-07T13:04:10.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PensionManagementSystem.Domain",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
-              "RelativeDocumentMoniker": "PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
-              "RelativeToolTip": "PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PensionManagementSystem.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:44:43.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PensionManagementSystem.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
+              "RelativeToolTip": "PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-07T12:25:01.303Z",
+              "WhenOpened": "2025-08-07T12:43:52.635Z",
               "EditorCaption": ""
             },
             {
@@ -53,6 +74,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PensionManagementSystem.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
+              "RelativeToolTip": "PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-07T12:25:01.303Z"
             }
           ]
         }
