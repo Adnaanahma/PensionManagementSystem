@@ -26,12 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PensionManagementSystem.Application",
+              "Title": "PensionManagementSystem.Application.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj",
               "RelativeDocumentMoniker": "PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj",
@@ -51,29 +59,19 @@
               "RelativeToolTip": "PensionManagementSystem.Infrastructure\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T12:44:43.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T12:44:43.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PensionManagementSystem.Infrastructure",
+              "Title": "PensionManagementSystem.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
               "RelativeDocumentMoniker": "PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
               "RelativeToolTip": "PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-07T12:43:52.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-08-07T12:43:52.635Z"
             },
             {
               "$type": "Document",
