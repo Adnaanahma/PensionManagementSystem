@@ -1,6 +1,16 @@
+using FluentValidation.AspNetCore;
+using PensionManagementSystem.Application.Validators;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// register fluent validation
+builder.Services.AddControllers()
+    .AddFluentValidation(fv =>
+    {
+        fv.RegisterValidatorsFromAssemblyContaining<EmployerDtoValidator>();
+    });
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

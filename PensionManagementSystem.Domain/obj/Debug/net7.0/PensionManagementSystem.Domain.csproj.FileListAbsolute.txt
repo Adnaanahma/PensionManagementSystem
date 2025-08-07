@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\bin\Debug\net7.0\PensionManagementSystem.Domain.deps.json
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\bin\Debug\net7.0\PensionManagementSystem.Domain.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\bin\Debug\net7.0\PensionManagementSystem.Domain.pdb
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.sourcelink.json
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\refint\PensionManagementSystem.Domain.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.pdb
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\ref\PensionManagementSystem.Domain.dll
