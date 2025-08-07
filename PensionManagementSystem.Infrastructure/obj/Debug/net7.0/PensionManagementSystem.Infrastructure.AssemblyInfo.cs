@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PensionManagementSystem.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcd54516a8bf60876962a5554cfe152ff64d5fe0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2c832e7abf01adbf231b6f5cc53b0e520e99486")]
 [assembly: System.Reflection.AssemblyProductAttribute("PensionManagementSystem.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PensionManagementSystem.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
