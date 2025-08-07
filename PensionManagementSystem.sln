@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PensionManagementSystem.App
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PensionManagementSystem.WebAPI", "PensionManagementSystem.WebAPI\PensionManagementSystem.WebAPI.csproj", "{8F5F1852-40C3-43CB-9722-A5F6293B63E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PensionManagementSystem.Tests", "PensionManagementSystem.Tests\PensionManagementSystem.Tests.csproj", "{D925D6F3-137E-42C0-A649-40F51CFCCA9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8F5F1852-40C3-43CB-9722-A5F6293B63E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F5F1852-40C3-43CB-9722-A5F6293B63E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F5F1852-40C3-43CB-9722-A5F6293B63E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D925D6F3-137E-42C0-A649-40F51CFCCA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D925D6F3-137E-42C0-A649-40F51CFCCA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D925D6F3-137E-42C0-A649-40F51CFCCA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D925D6F3-137E-42C0-A649-40F51CFCCA9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
