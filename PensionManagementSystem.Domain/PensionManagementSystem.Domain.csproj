@@ -10,4 +10,12 @@
     <Folder Include="Interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PensionManagementSystem.Application\PensionManagementSystem.Application.csproj" />
+  </ItemGroup>
+
 </Project>

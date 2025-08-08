@@ -8,5 +8,7 @@ namespace PensionManagementSystem.Application.ViewModels
 {
     public class EmployerRequestModel
     {
+        public string CompanyName { get; set; }
+        public string RegistrationNumber { get; set; }
     }
 }
