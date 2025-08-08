@@ -24,10 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\PensionManagementSystem.Application\PensionManagementSystem.Application.csproj" />
     <ProjectReference Include="..\PensionManagementSystem.Infrastructure\PensionManagementSystem.Infrastructure.csproj" />
   </ItemGroup>
