@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.EmployerController",
+    "Method": "CreateEmployer",
+    "RelativePath": "api/v1/employers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PensionManagementSystem.Application.ViewModels.EmployerRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.EmployerController",
+    "Method": "GetAllEmployers",
+    "RelativePath": "api/v1/employers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.EmployerController",
+    "Method": "GetEmployerById",
+    "RelativePath": "api/v1/employers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.EmployerController",
+    "Method": "UpdateEmployer",
+    "RelativePath": "api/v1/employers/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "PensionManagementSystem.Application.ViewModels.EmployerRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

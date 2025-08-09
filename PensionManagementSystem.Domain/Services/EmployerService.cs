@@ -8,10 +8,11 @@ using AutoMapper;
 using PensionManagementSystem.Application.Dtos;
 using PensionManagementSystem.Application.Entities;
 using PensionManagementSystem.Application.ViewModels;
+using PensionManagementSystem.Domain.Interfaces;
 
 namespace PensionManagementSystem.Domain.Services
 {
-    public class EmployerService
+    public class EmployerService : IEmployerService
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;

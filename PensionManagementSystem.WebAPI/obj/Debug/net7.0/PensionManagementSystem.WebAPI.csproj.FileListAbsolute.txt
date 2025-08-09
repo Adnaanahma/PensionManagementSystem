@@ -20,12 +20,8 @@ C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.We
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\FluentValidation.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Humanizer.dll
-C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -33,8 +29,6 @@ C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.We
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Globalization.CultureInfoCache.dll
-C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
@@ -91,3 +85,11 @@ C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.We
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\obj\Debug\net7.0\ref\PensionManagementSystem.WebAPI.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\PensionManagementSystem.Infrastructure.dll
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\PensionManagementSystem.Infrastructure.pdb
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\PensionManagementSystem.Domain.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\PensionManagementSystem.Domain.pdb
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.WebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

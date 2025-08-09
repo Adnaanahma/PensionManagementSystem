@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PensionManagementSystem.Application.ViewModels;
+using PensionManagementSystem.Domain.Interfaces;
 
 namespace PensionManagementSystem.WebAPI.Controllers
 {
@@ -9,9 +10,9 @@ namespace PensionManagementSystem.WebAPI.Controllers
     [Route("api/v1/employers")]
     public class EmployerController : ControllerBase
     {
-        private readonly EmployerService _employerService;
+        private readonly IEmployerService _employerService;
 
-        public EmployerController(EmployerService employerService)
+        public EmployerController(IEmployerService employerService)
         {
             _employerService = employerService;
         }
@@ -45,16 +46,10 @@ namespace PensionManagementSystem.WebAPI.Controllers
         public async Task<IActionResult> UpdateEmployer(Guid id, [FromBody] EmployerRequestModel model)
         {
             await _employerService.UpdateEmployerAsync(id, model);
-            return NoContent();
+            return Ok(new { message = "Member updated successfully" });
         }
 
-        [HttpDelete("{id}")]
-        [Authorize(Roles = "Admin")] // Only Admin can delete
-        public async Task<IActionResult> SoftDeleteEmployer(Guid id)
-        {
-            await _employerService.SoftDeleteEmployerAsync(id);
-            return NoContent();
-        }
+       
     }
 
 }
