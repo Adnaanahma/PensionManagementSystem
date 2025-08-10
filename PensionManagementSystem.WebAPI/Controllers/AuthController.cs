@@ -16,7 +16,11 @@ namespace PensionManagementSystem.WebAPI.Controllers
         {
             _authService = authService;
         }
-
+        /// <summary>
+        /// Employer Login with Reg No
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost("login")]
         [AllowAnonymous]
         public async Task<IActionResult> Login([FromBody] EmployerLoginModel model)
@@ -33,7 +37,11 @@ namespace PensionManagementSystem.WebAPI.Controllers
                 throw;
             }
         }
-
+        /// <summary>
+        /// RefreshToken Endpoint
+        /// </summary>
+        /// <param name="refreshToken"></param>
+        /// <returns></returns>
         [HttpPost("refresh")]
         [AllowAnonymous]
         public async Task<IActionResult> Refresh([FromBody] string refreshToken)

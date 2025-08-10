@@ -16,7 +16,11 @@ namespace PensionManagementSystem.WebAPI.Controllers
         {
             _employerService = employerService;
         }
-
+        /// <summary>
+        /// Create Employer
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost]
         [AllowAnonymous] // Public registration
         public async Task<IActionResult> CreateEmployer([FromBody] EmployerRequestModel model)
@@ -24,7 +28,10 @@ namespace PensionManagementSystem.WebAPI.Controllers
             var id = await _employerService.CreateEmployerAsync(model);
             return Ok(new { EmployerId = id });
         }
-
+        /// <summary>
+        /// Get All Employers...Admin
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [Authorize] // Only authenticated users
         public IActionResult GetAllEmployers()
@@ -32,7 +39,11 @@ namespace PensionManagementSystem.WebAPI.Controllers
             var employers = _employerService.GetAllEmployers();
             return Ok(employers);
         }
-
+        /// <summary>
+        /// Get Employer By Id ... Admin
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet("{id}")]
         [Authorize]
         public async Task<IActionResult> GetEmployerById(Guid id)
@@ -40,7 +51,12 @@ namespace PensionManagementSystem.WebAPI.Controllers
             var employer = await _employerService.GetEmployerByIdAsync(id);
             return Ok(employer);
         }
-
+        /// <summary>
+        /// Update Employer  ...Admin
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPut("{id}")]
         [Authorize]
         public async Task<IActionResult> UpdateEmployer(Guid id, [FromBody] EmployerRequestModel model)

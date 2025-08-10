@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PensionManagementSystem.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b9b8dbe4f92a912995b9ca99c2e12352c5fdde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aa5f0c80799d9eb9c46d0d398493d0c75c58f7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PensionManagementSystem.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PensionManagementSystem.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
