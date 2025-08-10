@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PensionManagementSystem.Application.ViewModels.EmployerLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.AuthController",
+    "Method": "Refresh",
+    "RelativePath": "api/v1/auth/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshToken",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "PensionManagementSystem.WebAPI.Controllers.EmployerController",
     "Method": "CreateEmployer",
     "RelativePath": "api/v1/employers",
@@ -57,6 +89,85 @@
       {
         "Name": "model",
         "Type": "PensionManagementSystem.Application.ViewModels.EmployerRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.MemberController",
+    "Method": "CreateMember",
+    "RelativePath": "api/v1/members",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PensionManagementSystem.Application.ViewModels.MemberRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.MemberController",
+    "Method": "GetAllMembers",
+    "RelativePath": "api/v1/members",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.MemberController",
+    "Method": "GetMemberById",
+    "RelativePath": "api/v1/members/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.MemberController",
+    "Method": "UpdateMember",
+    "RelativePath": "api/v1/members/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "PensionManagementSystem.Application.ViewModels.MemberRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PensionManagementSystem.WebAPI.Controllers.MemberController",
+    "Method": "SoftDeleteMember",
+    "RelativePath": "api/v1/members/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
         "IsRequired": true
       }
     ],

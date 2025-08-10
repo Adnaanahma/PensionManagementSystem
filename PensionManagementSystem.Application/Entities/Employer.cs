@@ -11,7 +11,7 @@ namespace PensionManagementSystem.Application.Entities
     {
         public string CompanyName { get; set; }
         public string RegistrationNumber { get; set; }
-        public string RefreshToken { get; set; }
+        public string? RefreshToken { get; set; }
         public DateTime RefreshTokenExpiry { get; set; }
 
         public ICollection<Member> Members { get; set; }

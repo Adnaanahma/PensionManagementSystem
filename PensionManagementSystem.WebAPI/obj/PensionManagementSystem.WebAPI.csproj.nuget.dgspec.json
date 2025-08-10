@@ -107,6 +107,9 @@
             "projectReferences": {
               "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj": {
                 "projectPath": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj"
               }
             }
           }
@@ -138,6 +141,10 @@
             "Microsoft.EntityFrameworkCore.UnitOfWork": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -310,6 +317,10 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "FluentAssertions": {
               "target": "Package",
               "version": "[7.0.0, )"
             },

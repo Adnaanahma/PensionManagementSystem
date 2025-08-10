@@ -14,3 +14,5 @@ C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Do
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\bin\Debug\net7.0\PensionManagementSystem.Application.pdb
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionManagementSystem.Domain.csproj.AssemblyReference.cache
 C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\obj\Debug\net7.0\PensionM.50B2D9B4.Up2Date
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\bin\Debug\net7.0\PensionManagementSystem.Infrastructure.dll
+C:\Users\hp\source\repos\Addy\PensionManagementSystem\PensionManagementSystem.Domain\bin\Debug\net7.0\PensionManagementSystem.Infrastructure.pdb

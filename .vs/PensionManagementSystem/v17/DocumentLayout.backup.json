@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C7E3066-37BE-4887-80D9-D3402A02D49F}|PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.domain\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7E3066-37BE-4887-80D9-D3402A02D49F}|PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj|solutionrelative:pensionmanagementsystem.domain\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7E3066-37BE-4887-80D9-D3402A02D49F}|PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.domain\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7E3066-37BE-4887-80D9-D3402A02D49F}|PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj|solutionrelative:pensionmanagementsystem.domain\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.webapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|solutionrelative:pensionmanagementsystem.webapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|solutionrelative:pensionmanagementsystem.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|solutionrelative:pensionmanagementsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7E3066-37BE-4887-80D9-D3402A02D49F}|PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.domain\\helpers\\serviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7E3066-37BE-4887-80D9-D3402A02D49F}|PensionManagementSystem.Domain\\PensionManagementSystem.Domain.csproj|solutionrelative:pensionmanagementsystem.domain\\helpers\\serviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8F5F1852-40C3-43CB-9722-A5F6293B63E5}|PensionManagementSystem.WebAPI\\PensionManagementSystem.WebAPI.csproj|solutionrelative:pensionmanagementsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{091786A1-6E6D-40CF-B388-B8A18636DB65}|PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.application\\entities\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091786A1-6E6D-40CF-B388-B8A18636DB65}|PensionManagementSystem.Application\\PensionManagementSystem.Application.csproj|solutionrelative:pensionmanagementsystem.application\\entities\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.infrastructure\\migrations\\20250808231416_pms.db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|solutionrelative:pensionmanagementsystem.infrastructure\\migrations\\20250808231416_pms.db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\addy\\pensionmanagementsystem\\pensionmanagementsystem.infrastructure\\migrations\\20250809131651_updaterefreshtokencoloumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B616F7-8DB3-4AB5-887B-39D5BFF43638}|PensionManagementSystem.Infrastructure\\PensionManagementSystem.Infrastructure.csproj|solutionrelative:pensionmanagementsystem.infrastructure\\migrations\\20250809131651_updaterefreshtokencoloumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,13 +62,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PensionManagementSystem.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:40:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\Helpers\\ServiceInjection.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Domain\\Helpers\\ServiceInjection.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\Helpers\\ServiceInjection.cs",
+              "RelativeToolTip": "PensionManagementSystem.Domain\\Helpers\\ServiceInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:06:47.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Domain\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\Services\\MemberService.cs",
+              "RelativeToolTip": "PensionManagementSystem.Domain\\Services\\MemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwHMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:00:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\Interfaces\\IMemberService.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Domain\\Interfaces\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Domain\\Interfaces\\IMemberService.cs",
+              "RelativeToolTip": "PensionManagementSystem.Domain\\Interfaces\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:00:22.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Program.cs",
+              "RelativeToolTip": "PensionManagementSystem.WebAPI\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwGoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:12:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "PensionManagementSystem.WebAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\appsettings.json",
               "RelativeToolTip": "PensionManagementSystem.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-08T23:22:09.118Z",
               "EditorCaption": ""
@@ -48,6 +141,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.WebAPI\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "PensionManagementSystem.WebAPI\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:53:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\Entities\\Employer.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Application\\Entities\\Employer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Application\\Entities\\Employer.cs",
+              "RelativeToolTip": "PensionManagementSystem.Application\\Entities\\Employer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:42:43.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250809131651_UpdateRefreshTokenColoumn.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\Migrations\\20250809131651_UpdateRefreshTokenColoumn.cs",
+              "RelativeDocumentMoniker": "PensionManagementSystem.Infrastructure\\Migrations\\20250809131651_UpdateRefreshTokenColoumn.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\Migrations\\20250809131651_UpdateRefreshTokenColoumn.cs",
+              "RelativeToolTip": "PensionManagementSystem.Infrastructure\\Migrations\\20250809131651_UpdateRefreshTokenColoumn.cs",
+              "ViewState": "AgIAAAQAAAAAAACAAQAuwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T13:16:52.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "20250808231416_PMS.Db.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.Infrastructure\\Migrations\\20250808231416_PMS.Db.cs",
               "RelativeDocumentMoniker": "PensionManagementSystem.Infrastructure\\Migrations\\20250808231416_PMS.Db.cs",
@@ -55,21 +185,7 @@
               "RelativeToolTip": "PensionManagementSystem.Infrastructure\\Migrations\\20250808231416_PMS.Db.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T23:14:17.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "PensionManagementSystem.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Addy\\PensionManagementSystem\\PensionManagementSystem.WebAPI\\Program.cs",
-              "RelativeToolTip": "PensionManagementSystem.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T23:12:57.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T23:14:17.228Z"
             }
           ]
         }

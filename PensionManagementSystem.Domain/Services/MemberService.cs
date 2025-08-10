@@ -3,10 +3,11 @@ using AutoMapper;
 using PensionManagementSystem.Application.Dtos;
 using PensionManagementSystem.Application.Entities;
 using PensionManagementSystem.Application.ViewModels;
+using PensionManagementSystem.Domain.Interfaces;
 
 namespace PensionManagementSystem.Domain.Services
 {
-    public class MemberService
+    public class MemberService : IMemberService
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
