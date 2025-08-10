@@ -9,13 +9,7 @@ namespace PensionManagementSystem.Application.ViewModels
 {
     public class BenefitRequestModel
     {
-        public BenefitType BenefitType { get; set; }
-
-        public bool EligibilityStatus { get; set; }
-
-        public decimal Amount { get; set; }  // validated in the validator folder
-        public Guid MemberId { get; set; }  // Foreign Key to Member
-
-        public DateTime CalculationDate { get; set; }
+        public Guid MemberId { get; set; }
+        public decimal Amount { get; set; }
     }
 }

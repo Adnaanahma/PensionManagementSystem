@@ -13,7 +13,8 @@ namespace PensionManagementSystem.Application.Entities
         public BenefitType BenefitType { get; set; }
 
         public bool EligibilityStatus { get; set; }
-     
+        public DateTime DateGranted { get; set; }
+
         public decimal Amount { get; set; }  // validated in the validator folder
         public Guid MemberId { get; set; }  // Foreign Key to Member
 

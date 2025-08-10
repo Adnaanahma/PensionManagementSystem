@@ -13,7 +13,8 @@ namespace PensionManagementSystem.Application.Dtos
 
         public bool EligibilityStatus { get; set; }
 
-        public decimal Amount { get; set; }  
+        public decimal Amount { get; set; }
+        public DateTime DateGranted { get; set; }
         public Guid MemberId { get; set; } 
 
         public DateTime CalculationDate { get; set; }
