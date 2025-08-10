@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PensionManagementSystem.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.AuthController.Login(PensionManagementSystem.Application.ViewModels.EmployerLoginModel)">
+            <summary>
+            Employer Login with Reg No
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.AuthController.Refresh(System.String)">
+            <summary>
+            RefreshToken Endpoint
+            </summary>
+            <param name="refreshToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.BenefitController.AddBenefit(PensionManagementSystem.Application.ViewModels.BenefitRequestModel)">
+            <summary>
+            Add a new benefit for a member
+            </summary>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.BenefitController.CalculateBenefit(System.Guid)">
+            <summary>
+            Calculate benefit based on member's contributions
+            </summary>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.BenefitController.GetBenefitsByMemberId(System.Guid)">
+            <summary>
+            Get all benefits for a member
+            </summary>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.EmployerController.CreateEmployer(PensionManagementSystem.Application.ViewModels.EmployerRequestModel)">
+            <summary>
+            Create Employer
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.EmployerController.GetAllEmployers">
+            <summary>
+            Get All Employers...Admin
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.EmployerController.GetEmployerById(System.Guid)">
+            <summary>
+            Get Employer By Id ... Admin
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.EmployerController.UpdateEmployer(System.Guid,PensionManagementSystem.Application.ViewModels.EmployerRequestModel)">
+            <summary>
+            Update Employer  ...Admin
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.MemberController.CreateMember(PensionManagementSystem.Application.ViewModels.MemberRequestModel)">
+            <summary>
+            Create Member by Employer
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.MemberController.GetAllMembers">
+            <summary>
+            Get All Member by Employer
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.MemberController.GetMemberById(System.Guid)">
+            <summary>
+            Get Member by Id....Public
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.MemberController.UpdateMember(System.Guid,PensionManagementSystem.Application.ViewModels.MemberRequestModel)">
+            <summary>
+            Update Member by ID ...Public
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PensionManagementSystem.WebAPI.Controllers.MemberController.SoftDeleteMember(System.Guid)">
+            <summary>
+            Deactivate Member ... Admin
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
